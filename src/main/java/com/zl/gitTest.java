@@ -6,5 +6,6 @@ public class gitTest {
         System.out.println("git-commit--version2");
         System.out.println("hello,master--version1");
         System.out.println("hello,hot-fix --version1");
+        System.out.println("hello,github-pull --version1");    
     }
 }
